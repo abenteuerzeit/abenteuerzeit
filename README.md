@@ -38,67 +38,67 @@ Additional information can be found beneath my profile picture on the left.
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center; background-color: snow; border: 1vw solid green; border-radius:5vw; padding: 1.618vw;">
   <figure style="margin: 1.6110vw; text-align: center; position: relative;">
     <img src="./assets/images/logo-python.svg" alt="Python3 logo" style="width:5vw; height: auto;">
-    <figcaption style="text-align:center; font-style: italic; font-size: smaller;">Python</figcaption>
+    <!-- <figcaption style="text-align:center; font-style: italic; font-size: smaller;">Python</figcaption> -->
   </figure>
   <figure style="margin: 1.6110vw; text-align: center; position: relative;">
     <img src="./assets/images/logo-flask.svg" alt="Flask framework logo" style="width:5vw; height: auto;">
-    <figcaption style="text-align:center; font-style: italic; font-size: smaller;">Flask</figcaption>
+    <!-- <figcaption style="text-align:center; font-style: italic; font-size: smaller;">Flask</figcaption> -->
   </figure>
   <figure style="margin: 1.6110vw; text-align: center; position: relative;">
     <img src="./assets/images/logo-jinja.svg" alt="Jinja logo" style="width:5vw; height: auto;">
-    <figcaption style="text-align:center; font-style: italic; font-size: smaller;">Jinja</figcaption>
+    <!-- <figcaption style="text-align:center; font-style: italic; font-size: smaller;">Jinja</figcaption> -->
   </figure>
   <figure style="margin: 1.6110vw; text-align: center; position: relative;">
     <img src="./assets/images/logo-c-sharp.svg" alt="C# logo" style="width:5vw; height: auto;">
-    <figcaption style="text-align:center; font-style: italic; font-size: smaller;">C sharp</figcaption>
+    <!-- <figcaption style="text-align:center; font-style: italic; font-size: smaller;">C sharp</figcaption> -->
   </figure>
   <figure style="margin: 1.6110vw; text-align: center; position: relative;">
     <img src="./assets/images/logo-git.svg" alt="Git logo" style="width:5vw; height: auto;">
-    <figcaption style="text-align:center; font-style: italic; font-size: smaller;">git</figcaption>
+    <!-- <figcaption style="text-align:center; font-style: italic; font-size: smaller;">git</figcaption> -->
   </figure>
   <figure style="margin: 1.6110vw; text-align: center; position: relative;">
     <img src="./assets/images/logo-html.svg" alt="HTML logo" style="width:5vw; height: auto;">
-    <figcaption style="text-align:center; font-style: italic; font-size: smaller;">HTML</figcaption>
+    <!-- <figcaption style="text-align:center; font-style: italic; font-size: smaller;">HTML</figcaption> -->
   </figure>
   <figure style="margin: 1.6110vw; text-align: center; position: relative;">
     <img src="./assets/images/logo-css.svg" alt="CSS logo" style="width:5vw; height: auto;">
-    <figcaption style="text-align:center; font-style: italic; font-size: smaller;">CSS</figcaption>
+    <!-- <figcaption style="text-align:center; font-style: italic; font-size: smaller;">CSS</figcaption> -->
   </figure>
   <figure style="margin: 1.6110vw; text-align: center; position: relative;">
     <img src="./assets/images/logo-bootstrap.svg" alt="Bootstrap logo" style="width:5vw; height: auto;">
-    <figcaption style="text-align:center; font-style: italic; font-size: smaller;">Bootstrap</figcaption>
+    <!-- <figcaption style="text-align:center; font-style: italic; font-size: smaller;">Bootstrap</figcaption> -->
   </figure>
   <figure style="margin: 1.6110vw; text-align: center; position: relative;">
     <img src="./assets/images/logo-javascript.svg" alt="JavaScript logo" style="width:5vw; height: auto;">
-    <figcaption style="text-align:center; font-style: italic; font-size: smaller;">JavaScript</figcaption>
+    <!-- <figcaption style="text-align:center; font-style: italic; font-size: smaller;">JavaScript</figcaption> -->
   </figure>
   <figure style="margin: 1.6110vw; text-align: center; position: relative;">
     <img src="./assets/images/logo-react-native.svg" alt="React native logo" style="width:5vw; height: auto;"">
-    <figcaption style="text-align:center; font-style: italic; font-size: smaller;">React Native</figcaption>
+    <!-- <figcaption style="text-align:center; font-style: italic; font-size: smaller;">React Native</figcaption> -->
   </figure>
   <figure style="margin: 1.6110vw; text-align: center; position: relative;">
     <img src="./assets/images/logo-redux.svg" alt="Redux logo" style="width:5vw; height: auto;"">
-    <figcaption style="text-align:center; font-style: italic; font-size: smaller;">Redux</figcaption>
+    <!-- <figcaption style="text-align:center; font-style: italic; font-size: smaller;">Redux</figcaption> -->
   </figure>
   <figure style="margin: 1.6110vw; text-align: center; position: relative;">
     <img src="./assets/images/logo-node.svg" alt="Node logo" style="width:5vw; height: auto;"">
-    <figcaption style="text-align:center; font-style: italic; font-size: smaller;">Node</figcaption>
+    <!-- <figcaption style="text-align:center; font-style: italic; font-size: smaller;">Node</figcaption> -->
   </figure>
   <figure style="margin: 1.6110vw; text-align: center; position: relative;">
     <img src="./assets/images/logo-ms-sql.svg" alt="Microsoft SQL Server logo" style="width:5vw; height: auto;">
-    <figcaption style="text-align:center; font-style: italic; font-size: smaller;">SQL Server</figcaption>
+    <!-- <figcaption style="text-align:center; font-style: italic; font-size: smaller;">SQL Server</figcaption> -->
   </figure>
   <figure style="margin: 1.6110vw; text-align: center; position: relative;">
     <img src="./assets/images/logo-dotnet.svg" alt=".NET Core logo" style="width:5vw; height: auto;"">
-    <figcaption style="text-align:center; font-style: italic; font-size: smaller;">.NET Core</figcaption>
+    <!-- <figcaption style="text-align:center; font-style: italic; font-size: smaller;">.NET Core</figcaption> -->
   </figure>
   <figure style="margin: 1.6110vw; text-align: center; position: relative;">
     <img src="./assets/images/logo-postgresql_elephant.svg" alt="PostgreSQL logo" style="width:5vw; height: auto;"">
-    <figcaption style="text-align:center; font-style: italic; font-size: smaller;">PostgreSQL</figcaption>
+    <!-- <figcaption style="text-align:center; font-style: italic; font-size: smaller;">PostgreSQL</figcaption> -->
   </figure>
   <figure style="margin: 1.6110vw; text-align: center; position: relative;">
     <img src="./assets/images/logo-unity.svg" alt="Unity logo" style="width:5vw; height: auto;"">
-    <figcaption style="text-align:center; font-style: italic; font-size: smaller;">Unity</figcaption>
+    <!-- <figcaption style="text-align:center; font-style: italic; font-size: smaller;">Unity</figcaption> -->
   </figure>
 </div>
 

@@ -35,111 +35,70 @@ Additional information can be found beneath my profile picture on the left.
 ![Python3 logo](./assets//images/Python_logo_and_wordmark.svg "Python")
 ![React native logo](./assets//images/React-icon.svg "react native") 
 -->
-<style>
-  .logo-container {
-    display: flex;
-    flex-wrap: wrap;
-    align-items: center;
-    justify-content: center;
-    background-color: snow;
-    border: 1vw solid green;
-    border-radius: 10vw;
-    padding: 1.618vw;
-  }
-  .logo-figure {
-    margin: 1.6110vw;
-    text-align: center;
-    position: relative;
-  }
-  .logo-img {
-    width: 10vw;
-    height: auto;
-  }
-  .logo-caption {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    font-weight: bold;
-    font-size: 3.5vw;
-    text-align: center;
-    color: black;
-    visibility: hidden;
-    opacity: 0;
-    transition: all 0.3s ease-in-out;
-    z-index: 1;
-  }
-  .logo-figure:hover .logo-caption,
-  .logo-figure:focus .logo-caption {
-    visibility: visible;
-    opacity: 1;
-    background-color: rgba(255, 255, 255, 0.8);
-  }
-</style>
-<div class="logo-container">
-  <figure class="logo-figure">
-    <img src="./assets/images/logo-python.svg" alt="Python3 logo" class="logo-img">
-    <figcaption class="logo-caption">Python</figcaption>
+<div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center; background-color: snow; border: 1vw solid green; border-radius: 10vw; padding: 1.618vw;">
+  <figure style="margin: 1.6110vw; text-align: center; position: relative;">
+    <img src="./assets/images/logo-python.svg" alt="Python3 logo" style="width: 10vw; height: auto;">
+    <figcaption style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); font-weight: bold; font-size: 3.5vw; text-align: center; color: black; visibility: hidden; opacity: 0; transition: all 0.3s ease-in-out; z-index: 1;" onmouseover="this.style.visibility='visible'; this.style.opacity='1'; this.style.backgroundColor='rgba(255, 255, 255, 0.8);'" onmouseout="this.style.visibility='hidden'; this.style.opacity='0';">Python</figcaption>
   </figure>
-  <figure class="logo-figure">
-    <img src="./assets/images/logo-flask.svg" alt="Flask framework logo" class="logo-img">
-    <figcaption class="logo-caption">Flask</figcaption>
+  <figure style="margin: 1.6110vw; text-align: center; position: relative;">
+    <img src="./assets/images/logo-flask.svg" alt="Flask framework logo" style="width: 10vw; height: auto;">
+    <figcaption style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); font-weight: bold; font-size: 3.5vw; text-align: center; color: black; visibility: hidden; opacity: 0; transition: all 0.3s ease-in-out; z-index: 1;" onmouseover="this.style.visibility='visible'; this.style.opacity='1'; this.style.backgroundColor='rgba(255, 255, 255, 0.8);'" onmouseout="this.style.visibility='hidden'; this.style.opacity='0';">Flask</figcaption>
   </figure>
-  <figure class="logo-figure">
-    <img src="./assets/images/logo-jinja.svg" alt="Jinja logo" class="logo-img">
-    <figcaption class="logo-caption">Jinja</figcaption>
+  <figure style="margin: 1.6110vw; text-align: center; position: relative;">
+    <img src="./assets/images/logo-jinja.svg" alt="Jinja logo" style="width: 10vw; height: auto;">
+    <figcaption style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); font-weight: bold; font-size: 3.5vw; text-align: center; color: black; visibility: hidden; opacity: 0; transition: all 0.3s ease-in-out; z-index: 1;" onmouseover="this.style.visibility='visible'; this.style.opacity='1'; this.style.backgroundColor='rgba(255, 255, 255, 0.8);'" onmouseout="this.style.visibility='hidden'; this.style.opacity='0';">Jinja</figcaption>
   </figure>
-  <figure class="logo-figure">
-    <img src="./assets/images/logo-c-sharp.svg" alt="C# logo" class="logo-img">
-    <figcaption class="logo-caption">C sharp</figcaption>
+  <figure style="margin: 1.6110vw; text-align: center; position: relative;">
+    <img src="./assets/images/logo-c-sharp.svg" alt="C# logo" style="width: 10vw; height: auto;">
+    <figcaption style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); font-weight: bold; font-size: 3.5vw; text-align: center; color: black; visibility: hidden; opacity: 0; transition: all 0.3s ease-in-out; z-index: 1;" onmouseover="this.style.visibility='visible'; this.style.opacity='1'; this.style.backgroundColor='rgba(255, 255, 255, 0.8);'" onmouseout="this.style.visibility='hidden'; this.style.opacity='0';">C sharp</figcaption>
   </figure>
-  <figure class="logo-figure">
-    <img src="./assets/images/logo-git.svg" alt="Git logo" class="logo-img">
-    <figcaption class="logo-caption">git</figcaption>
+  <figure style="margin: 1.6110vw; text-align: center; position: relative;">
+    <img src="./assets/images/logo-git.svg" alt="Git logo" style="width: 10vw; height: auto;">
+    <figcaption style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); font-weight: bold; font-size: 3.5vw; text-align: center; color: black; visibility: hidden; opacity: 0; transition: all 0.3s ease-in-out; z-index: 1;" onmouseover="this.style.visibility='visible'; this.style.opacity='1'; this.style.backgroundColor='rgba(255, 255, 255, 0.8);'" onmouseout="this.style.visibility='hidden'; this.style.opacity='0';">git</figcaption>
   </figure>
-  <figure class="logo-figure">
-    <img src="./assets/images/logo-html.svg" alt="HTML logo" class="logo-img">
-    <figcaption class="logo-caption">HTML</figcaption>
+  <figure style="margin: 1.6110vw; text-align: center; position: relative;">
+    <img src="./assets/images/logo-html.svg" alt="HTML logo" style="width: 10vw; height: auto;">
+    <figcaption style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); font-weight: bold; font-size: 3.5vw; text-align: center; color: black; visibility: hidden; opacity: 0; transition: all 0.3s ease-in-out; z-index: 1;" onmouseover="this.style.visibility='visible'; this.style.opacity='1'; this.style.backgroundColor='rgba(255, 255, 255, 0.8);'" onmouseout="this.style.visibility='hidden'; this.style.opacity='0';">HTML</figcaption>
   </figure>
-  <figure class="logo-figure">
-    <img src="./assets/images/logo-css.svg" alt="CSS logo" class="logo-img">
-    <figcaption class="logo-caption">CSS</figcaption>
+  <figure style="margin: 1.6110vw; text-align: center; position: relative;">
+    <img src="./assets/images/logo-css.svg" alt="CSS logo" style="width: 10vw; height: auto;">
+    <figcaption style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); font-weight: bold; font-size: 3.5vw; text-align: center; color: black; visibility: hidden; opacity: 0; transition: all 0.3s ease-in-out; z-index: 1;" onmouseover="this.style.visibility='visible'; this.style.opacity='1'; this.style.backgroundColor='rgba(255, 255, 255, 0.8);'" onmouseout="this.style.visibility='hidden'; this.style.opacity='0';">CSS</figcaption>
   </figure>
-  <figure class="logo-figure">
-    <img src="./assets/images/logo-bootstrap.svg" alt="Bootstrap logo" class="logo-img">
-    <figcaption class="logo-caption">Bootstrap</figcaption>
+  <figure style="margin: 1.6110vw; text-align: center; position: relative;">
+    <img src="./assets/images/logo-bootstrap.svg" alt="Bootstrap logo" style="width: 10vw; height: auto;">
+    <figcaption style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); font-weight: bold; font-size: 3.5vw; text-align: center; color: black; visibility: hidden; opacity: 0; transition: all 0.3s ease-in-out; z-index: 1;" onmouseover="this.style.visibility='visible'; this.style.opacity='1'; this.style.backgroundColor='rgba(255, 255, 255, 0.8);'" onmouseout="this.style.visibility='hidden'; this.style.opacity='0';">Bootstrap</figcaption>
   </figure>
-  <figure class="logo-figure">
-    <img src="./assets/images/logo-javascript.svg" alt="JavaScript logo" class="logo-img">
-    <figcaption class="logo-caption">JavaScript</figcaption>
+  <figure style="margin: 1.6110vw; text-align: center; position: relative;">
+    <img src="./assets/images/logo-javascript.svg" alt="JavaScript logo" style="width: 10vw; height: auto;">
+    <figcaption style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); font-weight: bold; font-size: 3.5vw; text-align: center; color: black; visibility: hidden; opacity: 0; transition: all 0.3s ease-in-out; z-index: 1;" onmouseover="this.style.visibility='visible'; this.style.opacity='1'; this.style.backgroundColor='rgba(255, 255, 255, 0.8);'" onmouseout="this.style.visibility='hidden'; this.style.opacity='0';">JavaScript</figcaption>
   </figure>
-  <figure class="logo-figure">
-    <img src="./assets/images/logo-react-native.svg" alt="React native logo" class="logo-img"">
-    <figcaption class="logo-caption">React Native</figcaption>
+  <figure style="margin: 1.6110vw; text-align: center; position: relative;">
+    <img src="./assets/images/logo-react-native.svg" alt="React native logo" style="width: 10vw; height: auto;"">
+    <figcaption style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); font-weight: bold; font-size: 3.5vw; text-align: center; color: black; visibility: hidden; opacity: 0; transition: all 0.3s ease-in-out; z-index: 1;" onmouseover="this.style.visibility='visible'; this.style.opacity='1'; this.style.backgroundColor='rgba(255, 255, 255, 0.8);'" onmouseout="this.style.visibility='hidden'; this.style.opacity='0';">React Native</figcaption>
   </figure>
-  <figure class="logo-figure">
-    <img src="./assets/images/logo-redux.svg" alt="Redux logo" class="logo-img"">
-    <figcaption class="logo-caption">Redux</figcaption>
+  <figure style="margin: 1.6110vw; text-align: center; position: relative;">
+    <img src="./assets/images/logo-redux.svg" alt="Redux logo" style="width: 10vw; height: auto;"">
+    <figcaption style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); font-weight: bold; font-size: 3.5vw; text-align: center; color: black; visibility: hidden; opacity: 0; transition: all 0.3s ease-in-out; z-index: 1;" onmouseover="this.style.visibility='visible'; this.style.opacity='1'; this.style.backgroundColor='rgba(255, 255, 255, 0.8);'" onmouseout="this.style.visibility='hidden'; this.style.opacity='0';">Redux</figcaption>
   </figure>
-  <figure class="logo-figure">
-    <img src="./assets/images/logo-node.svg" alt="Node logo" class="logo-img"">
-    <figcaption class="logo-caption">Node</figcaption>
+  <figure style="margin: 1.6110vw; text-align: center; position: relative;">
+    <img src="./assets/images/logo-node.svg" alt="Node logo" style="width: 10vw; height: auto;"">
+    <figcaption style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); font-weight: bold; font-size: 3.5vw; text-align: center; color: black; visibility: hidden; opacity: 0; transition: all 0.3s ease-in-out; z-index: 1;" onmouseover="this.style.visibility='visible'; this.style.opacity='1'; this.style.backgroundColor='rgba(255, 255, 255, 0.8);'" onmouseout="this.style.visibility='hidden'; this.style.opacity='0';">Node</figcaption>
   </figure>
-  <figure class="logo-figure">
-    <img src="./assets/images/logo-ms-sql.svg" alt="Microsoft SQL Server logo" class="logo-img">
-    <figcaption class="logo-caption">SQL Server</figcaption>
+  <figure style="margin: 1.6110vw; text-align: center; position: relative;">
+    <img src="./assets/images/logo-ms-sql.svg" alt="Microsoft SQL Server logo" style="width: 10vw; height: auto;">
+    <figcaption style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); font-weight: bold; font-size: 3.5vw; text-align: center; color: black; visibility: hidden; opacity: 0; transition: all 0.3s ease-in-out; z-index: 1;" onmouseover="this.style.visibility='visible'; this.style.opacity='1'; this.style.backgroundColor='rgba(255, 255, 255, 0.8);'" onmouseout="this.style.visibility='hidden'; this.style.opacity='0';">SQL Server</figcaption>
   </figure>
-  <figure class="logo-figure">
-    <img src="./assets/images/logo-dotnet.svg" alt=".NET Core logo" class="logo-img"">
-    <figcaption class="logo-caption">.NET Core</figcaption>
+  <figure style="margin: 1.6110vw; text-align: center; position: relative;">
+    <img src="./assets/images/logo-dotnet.svg" alt=".NET Core logo" style="width: 10vw; height: auto;"">
+    <figcaption style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); font-weight: bold; font-size: 3.5vw; text-align: center; color: black; visibility: hidden; opacity: 0; transition: all 0.3s ease-in-out; z-index: 1;" onmouseover="this.style.visibility='visible'; this.style.opacity='1'; this.style.backgroundColor='rgba(255, 255, 255, 0.8);'" onmouseout="this.style.visibility='hidden'; this.style.opacity='0';">.NET Core</figcaption>
   </figure>
-  <figure class="logo-figure">
-    <img src="./assets/images/logo-postgresql_elephant.svg" alt="PostgreSQL logo" class="logo-img"">
-    <figcaption class="logo-caption">PostgreSQL</figcaption>
+  <figure style="margin: 1.6110vw; text-align: center; position: relative;">
+    <img src="./assets/images/logo-postgresql_elephant.svg" alt="PostgreSQL logo" style="width: 10vw; height: auto;"">
+    <figcaption style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); font-weight: bold; font-size: 3.5vw; text-align: center; color: black; visibility: hidden; opacity: 0; transition: all 0.3s ease-in-out; z-index: 1;" onmouseover="this.style.visibility='visible'; this.style.opacity='1'; this.style.backgroundColor='rgba(255, 255, 255, 0.8);'" onmouseout="this.style.visibility='hidden'; this.style.opacity='0';">PostgreSQL</figcaption>
   </figure>
-  <figure class="logo-figure">
-    <img src="./assets/images/logo-unity.svg" alt="Unity logo" class="logo-img"">
-    <figcaption class="logo-caption">Unity</figcaption>
+  <figure style="margin: 1.6110vw; text-align: center; position: relative;">
+    <img src="./assets/images/logo-unity.svg" alt="Unity logo" style="width: 10vw; height: auto;"">
+    <figcaption style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); font-weight: bold; font-size: 3.5vw; text-align: center; color: black; visibility: hidden; opacity: 0; transition: all 0.3s ease-in-out; z-index: 1;" onmouseover="this.style.visibility='visible'; this.style.opacity='1'; this.style.backgroundColor='rgba(255, 255, 255, 0.8);'" onmouseout="this.style.visibility='hidden'; this.style.opacity='0';">Unity</figcaption>
   </figure>
 </div>
 

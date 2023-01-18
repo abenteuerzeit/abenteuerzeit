@@ -39,6 +39,10 @@ Additional information can be found beneath my profile picture on the left.
   <figure style="margin: 1.6110vw; text-align: center; position: relative;">
     <img src="./assets/images/logo-python.svg" alt="Python3 logo" style="width: 10vw; height: auto;">
     <figcaption hidden style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); font-weight: bold; font-size: 3.5vw; text-align: center; color: black; visibility: hidden; opacity: 0; transition: all 0.3s ease-in-out; z-index: 1;" onmouseover="this.style.visibility='visible'; this.style.opacity='1'; this.style.backgroundColor='rgba(255, 255, 255, 0.8);'" onmouseout="this.style.visibility='hidden'; this.style.opacity='0';">Python</figcaption>
+<div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center; background-color: snow; border: 1vw solid green; border-radius: 10vw; padding: 1.618vw;">
+  <figure style="margin: 1.6110vw; text-align: center; position: relative;">
+    <img src="./assets/images/logo-python.svg" alt="Python3 logo" style="width: 10vw; height: auto;">
+    <figcaption style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); font-weight: bold; font-size: 3.5vw; text-align: center; color: black; visibility: hidden; opacity: 0; transition: all 0.3s ease-in-out; z-index: 1;" onmouseover="this.style.visibility='visible'; this.style.opacity='1'; this.style.backgroundColor='rgba(255, 255, 255, 0.8);'" onmouseout="this.style.visibility='hidden'; this.style.opacity='0';">Python</figcaption>
   </figure>
   <figure style="margin: 1.6110vw; text-align: center; position: relative;">
     <img src="./assets/images/logo-flask.svg" alt="Flask framework logo" style="width: 10vw; height: auto;">
@@ -103,6 +107,7 @@ Additional information can be found beneath my profile picture on the left.
 </div>
 
 ***
+
 ## Self Definition
 
 As a multilingual artist, musician, actor, and language specialist with a strong background in music and philosophy, I am highly skilled in both creative and analytical thinking. I am currently working towards becoming a .NET Full Stack programmer, and have already gained experience in technical support, web development, and research. I have a proven track record of teachingm and working in the music industry, and have demonstrated my ability to excel in fast-paced, dynamic environments. I am fluent in English, Polish, and French, and have successfully used these language skills as a translator, proofreader, and English language teacher. I am passionate about using my unique set of skills and knowledge to make a positive impact on the world, and am excited to bring my diverse background and expertise to a company that values innovation and excellence.

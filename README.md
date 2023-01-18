@@ -11,7 +11,7 @@ I am a highly skilled translator, teacher, mentor and proofreader who specialize
 
 Open for collaboration opportunities.
 
-- Phone numbers: [+1 (443) 216-9316](+14432169316), [+48 535-322-909](+48535322900)
+- Phone numbers: [+1 (443) 216-9316](tel:+14432169316), [+48 535-322-909](tel:+48535322900)
 - Profiles: [LinkedIn](www.linkedin.com/in/abenteuerzeit/), [Gitlab](gitlab.com/abenteuerzeit), [ORCID](https://orcid.org/0000-0001-6813-7490)
 
 Additional information can be found beneath my profile picture on the left.

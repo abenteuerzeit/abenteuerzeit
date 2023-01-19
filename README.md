@@ -119,11 +119,11 @@ I am a highly skilled and motivated individual with a strong background in the a
 
 ### Recent Projects
 
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abenteuerzeit&repo=autocomplete)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abenteuerzeit&repo=autocomplete)](https://github.com/abenteuerzeit/autocomplete.git)
 
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abenteuerzeit&repo=memory-game)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abenteuerzeit&repo=memory-game)](https://github.com/abenteuerzeit/memory-game.git)
 
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abenteuerzeit&repo=ask-mate)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abenteuerzeit&repo=ask-mate)](https://github.com/abenteuerzeit/ask-mate.git)
 
 
 

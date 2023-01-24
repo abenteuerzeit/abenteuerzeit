@@ -1,5 +1,13 @@
 # About me 
 
+[![Codewars](https://www.codewars.com/users/abenteuerzeit/badges/small)](https://www.codewars.com/users/abenteuerzeit)
+
+[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/abenteuerzeit/my-stack) 
+
+![counter](https://enb6254mo1wkgw.m.pipedream.net)
+
+***
+
 🔭 Currently seeking **junior developer** role as I complete my 12-month full stack development training at [Codecool](https://github.com/CodecoolGlobal).
 
 I am a highly skilled translator, teacher, mentor and proofreader who specializes in the Aesthetics and Philosophy of Art, fluent in three languages and working to master my .NET Full Stack developer skills.
@@ -12,14 +20,6 @@ Open for collaboration opportunities.
 - Profiles: [LinkedIn](www.linkedin.com/in/abenteuerzeit/), [Gitlab](gitlab.com/abenteuerzeit), [ORCID](https://orcid.org/0000-0001-6813-7490)
 
 Additional information can be found beneath my profile picture on the left.
-
-### Github Stats
-
-[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/abenteuerzeit/my-stack) 
-
-[![Codewars](https://www.codewars.com/users/abenteuerzeit/badges/large)](https://www.codewars.com/users/abenteuerzeit)
-
-![counter](https://enb6254mo1wkgw.m.pipedream.net)
 
 ***
 

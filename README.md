@@ -1,6 +1,4 @@
-# About me
-
-[![Codewars](https://www.codewars.com/users/abenteuerzeit/badges/large)](https://www.codewars.com/users/abenteuerzeit)
+# About me 
 
 🔭 Currently seeking **junior developer** role as I complete my 12-month full stack development training at [Codecool](https://github.com/CodecoolGlobal).
 
@@ -17,92 +15,13 @@ Additional information can be found beneath my profile picture on the left.
 
 ### Github Stats
 
+[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/abenteuerzeit/my-stack) 
+
+[![Codewars](https://www.codewars.com/users/abenteuerzeit/badges/large)](https://www.codewars.com/users/abenteuerzeit)
+
 ![Github stats](https://github-readme-stats.vercel.app/api?username=abenteuerzeit)
 
 ![counter](https://enb6254mo1wkgw.m.pipedream.net)
-
-
-#### Hard Skills
-
-<!-- 
-![HTML and CSS logos](./assets//images/CSS3_and_HTML5_logos_and_wordmarks.svg "HTML and CSS")
-![JavaScript logo](./assets//images/Unofficial_JavaScript_logo_2.svg "JavaScipt")
-![Bootstrap logo](./assets//images/Bootstrap_logo.svg "Bootstrap")
-![Git logo](./assets//images/Git-logo-orange.svg "git")
-![Csharp logo](./assets//images/Logo_C_sharp.svg "C#")
-![Microsoft SQL Server logo](./assets//images/microsoft-sql-server-logo.svg "Microsoft SQL Server")
-![Dotnet Core logo](./assets//images/NET_Core_Logo.svg ".NET Core")
-![Node logo](./assets//images/Node.js_logo.svg "node.js")
-![PostgreSQL logo](./assets//images/Postgresql_elephant.svg "PostgreSQL")
-![Python3 logo](./assets//images/Python_logo_and_wordmark.svg "Python")
-![React native logo](./assets//images/React-icon.svg "react native") 
--->
-<div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center; background-color: snow; border: 1vw solid green; border-radius:5vw; padding: 1.618vw;">
-  <figure style="margin: 1.6110vw; text-align: center; position: relative;">
-    <img src="./assets/images/logo-python.svg" alt="Python3 logo" style="width:5vw; height: auto;">
-    <!-- <figcaption style="text-align:center; font-style: italic; font-size: smaller;">Python</figcaption> -->
-  </figure>
-  <figure style="margin: 1.6110vw; text-align: center; position: relative;">
-    <img src="./assets/images/logo-flask.svg" alt="Flask framework logo" style="width:5vw; height: auto;">
-    <!-- <figcaption style="text-align:center; font-style: italic; font-size: smaller;">Flask</figcaption> -->
-  </figure>
-  <figure style="margin: 1.6110vw; text-align: center; position: relative;">
-    <img src="./assets/images/logo-jinja.svg" alt="Jinja logo" style="width:5vw; height: auto;">
-    <!-- <figcaption style="text-align:center; font-style: italic; font-size: smaller;">Jinja</figcaption> -->
-  </figure>
-  <figure style="margin: 1.6110vw; text-align: center; position: relative;">
-    <img src="./assets/images/logo-c-sharp.svg" alt="C# logo" style="width:5vw; height: auto;">
-    <!-- <figcaption style="text-align:center; font-style: italic; font-size: smaller;">C sharp</figcaption> -->
-  </figure>
-  <figure style="margin: 1.6110vw; text-align: center; position: relative;">
-    <img src="./assets/images/logo-git.svg" alt="Git logo" style="width:5vw; height: auto;">
-    <!-- <figcaption style="text-align:center; font-style: italic; font-size: smaller;">git</figcaption> -->
-  </figure>
-  <figure style="margin: 1.6110vw; text-align: center; position: relative;">
-    <img src="./assets/images/logo-html.svg" alt="HTML logo" style="width:5vw; height: auto;">
-    <!-- <figcaption style="text-align:center; font-style: italic; font-size: smaller;">HTML</figcaption> -->
-  </figure>
-  <figure style="margin: 1.6110vw; text-align: center; position: relative;">
-    <img src="./assets/images/logo-css.svg" alt="CSS logo" style="width:5vw; height: auto;">
-    <!-- <figcaption style="text-align:center; font-style: italic; font-size: smaller;">CSS</figcaption> -->
-  </figure>
-  <figure style="margin: 1.6110vw; text-align: center; position: relative;">
-    <img src="./assets/images/logo-bootstrap.svg" alt="Bootstrap logo" style="width:5vw; height: auto;">
-    <!-- <figcaption style="text-align:center; font-style: italic; font-size: smaller;">Bootstrap</figcaption> -->
-  </figure>
-  <figure style="margin: 1.6110vw; text-align: center; position: relative;">
-    <img src="./assets/images/logo-javascript.svg" alt="JavaScript logo" style="width:5vw; height: auto;">
-    <!-- <figcaption style="text-align:center; font-style: italic; font-size: smaller;">JavaScript</figcaption> -->
-  </figure>
-  <figure style="margin: 1.6110vw; text-align: center; position: relative;">
-    <img src="./assets/images/logo-react-native.svg" alt="React native logo" style="width:5vw; height: auto;"">
-    <!-- <figcaption style="text-align:center; font-style: italic; font-size: smaller;">React Native</figcaption> -->
-  </figure>
-  <figure style="margin: 1.6110vw; text-align: center; position: relative;">
-    <img src="./assets/images/logo-redux.svg" alt="Redux logo" style="width:5vw; height: auto;"">
-    <!-- <figcaption style="text-align:center; font-style: italic; font-size: smaller;">Redux</figcaption> -->
-  </figure>
-  <figure style="margin: 1.6110vw; text-align: center; position: relative;">
-    <img src="./assets/images/logo-node.svg" alt="Node logo" style="width:5vw; height: auto;"">
-    <!-- <figcaption style="text-align:center; font-style: italic; font-size: smaller;">Node</figcaption> -->
-  </figure>
-  <figure style="margin: 1.6110vw; text-align: center; position: relative;">
-    <img src="./assets/images/logo-ms-sql.svg" alt="Microsoft SQL Server logo" style="width:5vw; height: auto;">
-    <!-- <figcaption style="text-align:center; font-style: italic; font-size: smaller;">SQL Server</figcaption> -->
-  </figure>
-  <figure style="margin: 1.6110vw; text-align: center; position: relative;">
-    <img src="./assets/images/logo-dotnet.svg" alt=".NET Core logo" style="width:5vw; height: auto;"">
-    <!-- <figcaption style="text-align:center; font-style: italic; font-size: smaller;">.NET Core</figcaption> -->
-  </figure>
-  <figure style="margin: 1.6110vw; text-align: center; position: relative;">
-    <img src="./assets/images/logo-postgresql_elephant.svg" alt="PostgreSQL logo" style="width:5vw; height: auto;"">
-    <!-- <figcaption style="text-align:center; font-style: italic; font-size: smaller;">PostgreSQL</figcaption> -->
-  </figure>
-  <figure style="margin: 1.6110vw; text-align: center; position: relative;">
-    <img src="./assets/images/logo-unity.svg" alt="Unity logo" style="width:5vw; height: auto;"">
-    <!-- <figcaption style="text-align:center; font-style: italic; font-size: smaller;">Unity</figcaption> -->
-  </figure>
-</div>
 
 ***
 

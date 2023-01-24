@@ -19,8 +19,6 @@ Additional information can be found beneath my profile picture on the left.
 
 [![Codewars](https://www.codewars.com/users/abenteuerzeit/badges/large)](https://www.codewars.com/users/abenteuerzeit)
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=abenteuerzeit)
-
 ![counter](https://enb6254mo1wkgw.m.pipedream.net)
 
 ***

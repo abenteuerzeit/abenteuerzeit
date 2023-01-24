@@ -1,7 +1,4 @@
-# Adrian Mróz, PhD 
-<!-- ![counter](https://enb6254mo1wkgw.m.pipedream.net) -->
-
-## About
+# About me
 
 🔭 Currently seeking **junior developer** role as I complete my 12-month full stack development training at [Codecool](https://github.com/CodecoolGlobal).
 
@@ -19,6 +16,9 @@ Additional information can be found beneath my profile picture on the left.
 ### Github Stats
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=abenteuerzeit)
+
+![counter](https://enb6254mo1wkgw.m.pipedream.net)
+
 
 #### Hard Skills
 

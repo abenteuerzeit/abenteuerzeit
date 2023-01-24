@@ -148,7 +148,7 @@ Aesthetics
 
 1. &#127482;&#127480; English — Native Speaker
 2. &#127477;&#127473; Polish — Native Speaker
-3. &#127477;&#127473; French — Advanced
+3. &#127467;&#127479; French — Advanced
 4. &#127468;&#127479; Ancient Greek — Intermediate
 5. &#127465;&#127466; German — Lower Intermediate
 

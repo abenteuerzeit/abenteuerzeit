@@ -1,4 +1,5 @@
 # About me
+!(image)[https://www.codewars.com/users/abenteuerzeit/badges/large]
 
 🔭 Currently seeking **junior developer** role as I complete my 12-month full stack development training at [Codecool](https://github.com/CodecoolGlobal).
 

@@ -1,6 +1,6 @@
 # About me
 
-![Codewars](https://www.codewars.com/users/abenteuerzeit/badges/large)
+[![Codewars](https://www.codewars.com/users/abenteuerzeit/badges/large)](https://www.codewars.com/users/abenteuerzeit)
 
 🔭 Currently seeking **junior developer** role as I complete my 12-month full stack development training at [Codecool](https://github.com/CodecoolGlobal).
 

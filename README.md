@@ -10,6 +10,8 @@ When you complete the initiation and confirm your account, I'll be awarded honor
 
 ![counter](https://enb6254mo1wkgw.m.pipedream.net)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abenteuerzeit&show_icons=true&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ***
 
 🔭 Currently seeking **junior developer** role as I complete my 12-month full stack development training at [Codecool](https://github.com/CodecoolGlobal).
@@ -42,11 +44,11 @@ I am a highly skilled and motivated individual with a strong background in the a
 
 ### Recent Projects
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abenteuerzeit&repo=autocomplete)](https://github.com/abenteuerzeit/autocomplete.git)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abenteuerzeit&repo=autocomplete&theme=radical)](https://github.com/abenteuerzeit/autocomplete.git)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abenteuerzeit&repo=memory-game)](https://github.com/abenteuerzeit/memory-game.git)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abenteuerzeit&repo=memory-game&theme=radical)](https://github.com/abenteuerzeit/memory-game.git)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abenteuerzeit&repo=ask-mate)](https://github.com/abenteuerzeit/ask-mate.git)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abenteuerzeit&repo=ask-mate&theme=radical)](https://github.com/abenteuerzeit/ask-mate.git)
 
 
 

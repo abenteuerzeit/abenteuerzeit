@@ -1,6 +1,10 @@
-# About me 
+# Hi! 
+
 
 [![Codewars](https://www.codewars.com/users/abenteuerzeit/badges/small)](https://www.codewars.com/users/abenteuerzeit)
+
+Use [this referral invite to join Codewars](www.codewars.com/r/xcXHsA) 
+When you complete the initiation and confirm your account, I'll be awarded honor. :)
 
 [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/abenteuerzeit/my-stack) 
 

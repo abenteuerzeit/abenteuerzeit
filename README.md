@@ -10,7 +10,7 @@ When you complete the initiation and confirm your account, I'll be awarded honor
 
 ![counter](https://enb6254mo1wkgw.m.pipedream.net)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abenteuerzeit&show_icons=true&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abenteuerzeit&show_icons=true&theme=radical&layout=compact)](https://github.com/abenteuerzeit?tab=repositories)
 
 ***
 

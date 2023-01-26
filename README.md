@@ -30,15 +30,6 @@ Open for collaboration opportunities.
 Additional information can be found beneath my profile picture on the left.
 
 ***
-
-## Self Definition
-
-As a multilingual artist, musician, actor, and language specialist with a strong background in music and philosophy, I am highly skilled in both creative and analytical thinking. I am currently working towards becoming a .NET Full Stack programmer, and have already gained experience in technical support, web development, and research. I have a proven track record of teachingm and working in the music industry, and have demonstrated my ability to excel in fast-paced, dynamic environments. I am fluent in English, Polish, and French, and have successfully used these language skills as a translator, proofreader, and English language teacher. I am passionate about using my unique set of skills and knowledge to make a positive impact on the world, and am excited to bring my diverse background and expertise to a company that values innovation and excellence.
-
-## Strength
-
-I am a highly skilled and motivated individual with a strong background in the arts and philosophy, as well as technical experience in web development, technical support, and research. I have a strong foundation in computer programming, with proficiency in technologies such as .NET, HTML, CSS, JavaScript, and more. I am also proficient in multiple languages, including English, Polish, and French, and have experience as a translator, proofreader, and language teacher. I am a natural problem-solver with excellent communication skills and a passion for helping others. I am confident that my diverse skillset and determination make me an excellent fit for any junior developer role
-
 ### Mentor Opinion
 
 > I've worked with Adrian during his time as a student in Codecool. He presented himself as ambitious, detail-oriented individual. He poses unique skill set and I recommend him.”

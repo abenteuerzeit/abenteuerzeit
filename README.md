@@ -6,6 +6,8 @@
 Use [this referral invite to join Codewars](www.codewars.com/r/xcXHsA) 
 When you complete the initiation and confirm your account, I'll be awarded honor. :)
 
+[![Leetcode](https://badges.peiyuan.ch/leetcode/abenteuerzeit/name?logo=leetcode&label=leetcode&style=for-the-badge)](https://leetcode.com/abenteuerzeit/)
+
 [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/abenteuerzeit/my-stack) 
 
 ![counter](https://enb6254mo1wkgw.m.pipedream.net)

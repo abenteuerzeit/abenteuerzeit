@@ -1,5 +1,12 @@
 # Hi! 
 
+***
+
+🔭 Currently seeking **junior developer** role as I complete my 12-month full stack development training at [Codecool](https://github.com/CodecoolGlobal).
+
+I am a highly skilled translator, teacher, mentor and proofreader who specializes in the Aesthetics and Philosophy of Art, fluent in three languages and working to master my .NET Full Stack developer skills.
+
+***
 
 [![Codewars](https://www.codewars.com/users/abenteuerzeit/badges/small)](https://www.codewars.com/users/abenteuerzeit)
 
@@ -14,11 +21,13 @@ When you complete the initiation and confirm your account, I'll be awarded honor
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abenteuerzeit&show_icons=true&theme=radical&layout=compact)](https://github.com/abenteuerzeit?tab=repositories)
 
-***
+### Recent Projects
 
-🔭 Currently seeking **junior developer** role as I complete my 12-month full stack development training at [Codecool](https://github.com/CodecoolGlobal).
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abenteuerzeit&repo=boss-machine&theme=radical)](https://github.com/abenteuerzeit/boss-machine.git)
 
-I am a highly skilled translator, teacher, mentor and proofreader who specializes in the Aesthetics and Philosophy of Art, fluent in three languages and working to master my .NET Full Stack developer skills.
+Click on the netlify badge below to see the deployed website:  
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/a11637ab-36ef-4a0d-ba95-0bd10e638b91/deploy-status)](https://boss-machine-abenteuerzeit.netlify.app/#/)
 
 ### Contact Me
 
@@ -34,13 +43,6 @@ Additional information can be found beneath my profile picture on the left.
 
 > I've worked with Adrian during his time as a student in Codecool. He presented himself as ambitious, detail-oriented individual. He poses unique skill set and I recommend him.”
 > — Kamil Grondys, mentor
-
-### Recent Projects
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abenteuerzeit&repo=boss-machine&theme=radical)](https://github.com/abenteuerzeit/boss-machine.git)
-
-See the API in action via netlify: 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/a11637ab-36ef-4a0d-ba95-0bd10e638b91/deploy-status)](https://boss-machine-abenteuerzeit.netlify.app/#/)
 
 ## Work Experience
 

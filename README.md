@@ -40,7 +40,7 @@ Additional information can be found beneath my profile picture on the left.
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abenteuerzeit&repo=boss-machine&theme=radical)](https://github.com/abenteuerzeit/boss-machine.git)
 
 See the API in action via netlify: 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/a11637ab-36ef-4a0d-ba95-0bd10e638b91/deploy-status)](https://app.netlify.com/sites/boss-machine-abenteuerzeit/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/a11637ab-36ef-4a0d-ba95-0bd10e638b91/deploy-status)](https://boss-machine-abenteuerzeit.netlify.app/#/)
 
 ## Work Experience
 

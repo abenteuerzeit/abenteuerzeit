@@ -37,13 +37,10 @@ Additional information can be found beneath my profile picture on the left.
 
 ### Recent Projects
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abenteuerzeit&repo=autocomplete&theme=radical)](https://github.com/abenteuerzeit/autocomplete.git)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abenteuerzeit&repo=boss-machine&theme=radical)](https://github.com/abenteuerzeit/boss-machine.git)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abenteuerzeit&repo=memory-game&theme=radical)](https://github.com/abenteuerzeit/memory-game.git)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abenteuerzeit&repo=ask-mate&theme=radical)](https://github.com/abenteuerzeit/ask-mate.git)
-
-
+See the API in action via netlify: 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/a11637ab-36ef-4a0d-ba95-0bd10e638b91/deploy-status)](https://app.netlify.com/sites/boss-machine-abenteuerzeit/deploys)
 
 ## Work Experience
 

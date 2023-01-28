@@ -23,11 +23,14 @@ When you complete the initiation and confirm your account, I'll be awarded honor
 
 ### Recent Projects
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abenteuerzeit&repo=boss-machine&theme=radical)](https://github.com/abenteuerzeit/boss-machine.git)
-
-Click on the netlify badge below to see the deployed website:  
+Click on the netlify badge below to see the deployed boss-machine:  
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/a11637ab-36ef-4a0d-ba95-0bd10e638b91/deploy-status)](https://boss-machine-abenteuerzeit.netlify.app/#/)
+
+
+[![README Card](https://github-readme-stats.vercel.app/api/pin/?username=abenteuerzeit&repo=boss-machine&theme=radical)](https://github.com/abenteuerzeit/boss-machine.git)
+
+[![README Card](https://github-readme-stats.vercel.app/api/pin/?username=abenteuerzeit&repo=github-oauth-app&theme=radical)](https://github.com/abenteuerzeit/github-oauth-app)
 
 ### Contact Me
 

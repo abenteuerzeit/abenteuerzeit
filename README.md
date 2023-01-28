@@ -3,8 +3,7 @@
 ***
 
 🔭 Currently seeking **junior developer** role as I complete my 12-month full stack development training at [Codecool](https://github.com/CodecoolGlobal).
-
-I am a highly skilled translator, teacher, mentor and proofreader who specializes in the Aesthetics and Philosophy of Art, fluent in three languages and working to master my .NET Full Stack developer skills.
+🌱 I’m currently learning Backend development on Codecademy and working on mastering my JavaScript and .NET Full Stack developer skills.
 
 ***
 
@@ -43,31 +42,6 @@ Additional information can be found beneath my profile picture on the left.
 
 > I've worked with Adrian during his time as a student in Codecool. He presented himself as ambitious, detail-oriented individual. He poses unique skill set and I recommend him.”
 > — Kamil Grondys, mentor
-
-## Work Experience
-
-- lecturer (2021 - ) — Jan Matejko Academy of Fine Arts 
-- Senior Technical Support Specialist (2020 - None) — Jagiellonian University 
-- lecturer (2017 - 2021) — Jagiellonian University 
-- Webmaster (2017 - ) — Maria Curie-Skłodowska University 
-- Associate Editor, Proofreader, Webmaster (2017 - None) — The Polish Journal of
-Aesthetics
-
-## Education
-
-- Doctor of Humanities in Philosophy (2017 - 2021) — Jagiellonian University 
-- M.D. (2015 - 2017) — Jagiellonian University 
-- B.A. (2012 - 2015) — Adam Mickiewicz University 
-- B.A. (2006 - 2009) — Paderewski Academy of Music 
-- Sound Engineer (2010 - 2012) — Regional Education Cente
-
-## Language Skills
-
-1. &#127482;&#127480; English — Native Speaker
-2. &#127477;&#127473; Polish — Native Speaker
-3. &#127467;&#127479; French — Advanced
-4. &#127468;&#127479; Ancient Greek — Intermediate
-5. &#127465;&#127466; German — Lower Intermediate
 
 <!--
 **abenteuerzeit/abenteuerzeit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

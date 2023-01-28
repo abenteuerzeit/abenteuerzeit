@@ -3,6 +3,7 @@
 ***
 
 🔭 Currently seeking **junior developer** role as I complete my 12-month full stack development training at [Codecool](https://github.com/CodecoolGlobal).
+
 🌱 I’m currently learning Backend development on Codecademy and working on mastering my JavaScript and .NET Full Stack developer skills.
 
 ***

@@ -32,6 +32,8 @@ Click on the netlify badge below to see the deployed boss-machine:
 
 [![README Card](https://github-readme-stats.vercel.app/api/pin/?username=abenteuerzeit&repo=github-oauth-app&theme=radical)](https://github.com/abenteuerzeit/github-oauth-app)
 
+[![README Card](https://github-readme-stats.vercel.app/api/pin/?username=abenteuerzeit&repo=SuperTests&theme=radical))](https://github.com/abenteuerzeit/SuperTests)
+
 ### Contact Me
 
 Open for collaboration opportunities.

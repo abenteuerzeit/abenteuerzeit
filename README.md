@@ -34,6 +34,8 @@ Click on the netlify badge below to see the deployed boss-machine:
 
 [![README Card](https://github-readme-stats.vercel.app/api/pin/?username=abenteuerzeit&repo=SuperTests&theme=radical))](https://github.com/abenteuerzeit/SuperTests)
 
+[![README Card](https://github-readme-stats.vercel.app/api/pin/?username=abenteuerzeit&repo=uni-umowy&theme=radical))](https://github.com/abenteuerzeit/uni-umowy)
+
 ### Contact Me
 
 Open for collaboration opportunities.

@@ -8,6 +8,8 @@
 
 ***
 
+[Hugging Face - 🤗](https://huggingface.co/abenteuerzeit)
+
 [![Codewars](https://www.codewars.com/users/abenteuerzeit/badges/small)](https://www.codewars.com/users/abenteuerzeit)
 
 Use [this referral invite to join Codewars](www.codewars.com/r/xcXHsA) 

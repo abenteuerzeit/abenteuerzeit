@@ -10,15 +10,23 @@
 
 ![Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,bootstrap&theme=dark&perline=3)
 
+*<sub>JavaScript, HTML, CSS, React, Redux, Bootstrap </sub>*
+
 ### Backend
 
 ![Skills](https://skillicons.dev/icons?i=py,flask,cs,dotnet,redux,nodejs,express,postgres,md,unity&theme=dark&perline=5)
 
+*<sub>Python, Flask, C#, .Net, Redux, Node, Express, Postgress, Markdown, Unity</sub>*
+
 ### Tools
 ![Skills](https://skillicons.dev/icons?i=vscode,visualstudio,postman,netlify,git,powershell&theme=dark&perline=6)
 
+*<sub>Visual Studio Code, Visual Studio 2022, Postman, Netlify, Git, Powershell</sub>*
+
 ### Learning
-![Skills](https://skillicons.dev/icons?i=sqlite,sequelize&theme=dark&perline=6)
+![Skills](https://skillicons.dev/icons?i=sqlite,sequelize,prisma&theme=dark&perline=6)
+
+*<sub>SQLite, Sequelize, Prisma </sub>*
 
              
 ***

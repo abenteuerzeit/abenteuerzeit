@@ -3,6 +3,23 @@
 ## :snake: eating my contributions 
 
 ![snake gif](https://github.com/abenteuerzeit/abenteuerzeit/blob/output/github-contribution-grid-snake.svg)
+
+## My Skills  [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/abenteuerzeit/my-stack) 
+
+### Frontend
+
+![Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,bootstrap&theme=dark&perline=3)
+
+### Backend
+
+![Skills](https://skillicons.dev/icons?i=py,flask,cs,dotnet,redux,nodejs,express,postgres,md,unity&theme=dark&perline=5)
+
+### Tools
+![Skills](https://skillicons.dev/icons?i=vscode,visualstudio,postman,netlify,unity,git,powershell&theme=dark&perline=5)
+
+### Learning
+![Skills](https://skillicons.dev/icons?i=sqlite,sequelize&theme=dark&perline=6)
+
              
 ***
 
@@ -20,8 +37,6 @@ Use [this referral invite to join Codewars](www.codewars.com/r/xcXHsA)
 When you complete the initiation and confirm your account, I'll be awarded honor. :)
 
 [![Leetcode](https://badges.peiyuan.ch/leetcode/abenteuerzeit/name?logo=leetcode&label=leetcode&style=for-the-badge)](https://leetcode.com/abenteuerzeit/)
-
-[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/abenteuerzeit/my-stack) 
 
 ![counter](https://enb6254mo1wkgw.m.pipedream.net)
 

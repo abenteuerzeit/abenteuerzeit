@@ -15,7 +15,7 @@
 ![Skills](https://skillicons.dev/icons?i=py,flask,cs,dotnet,redux,nodejs,express,postgres,md,unity&theme=dark&perline=5)
 
 ### Tools
-![Skills](https://skillicons.dev/icons?i=vscode,visualstudio,postman,netlify,unity,git,powershell&theme=dark&perline=5)
+![Skills](https://skillicons.dev/icons?i=vscode,visualstudio,postman,netlify,git,powershell&theme=dark&perline=6)
 
 ### Learning
 ![Skills](https://skillicons.dev/icons?i=sqlite,sequelize&theme=dark&perline=6)

@@ -16,7 +16,7 @@
 
 ![Skills](https://skillicons.dev/icons?i=py,flask,cs,dotnet,redux,nodejs,express,postgres,md,unity&theme=dark&perline=5)
 
-*<sub>Python, Flask, C#, .Net, Redux, Node, Express, Postgress, Markdown, Unity</sub>*
+*<sub>Python, Flask, C#, .Net, Redux, Node, Express, PostgreSQL, Markdown, Unity</sub>*
 
 ### Tools
 ![Skills](https://skillicons.dev/icons?i=vscode,visualstudio,postman,netlify,git,powershell&theme=dark&perline=6)

@@ -1,5 +1,9 @@
 # Hi! 
 
+## :snake: eating my contributions 
+
+![snake gif](https://github.com/abenteuerzeit/abenteuerzeit/blob/output/github-contribution-grid-snake.svg)
+             
 ***
 
 🔭 Currently seeking **junior developer** role as I complete my 12-month full stack development training at [Codecool](https://github.com/CodecoolGlobal).

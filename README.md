@@ -65,6 +65,10 @@ Click on the netlify badge below to see the deployed boss-machine:
 
 [![README Card](https://github-readme-stats.vercel.app/api/pin/?username=abenteuerzeit&repo=js-app&theme=radical)](https://github.com/abenteuerzeit/js-app)
 
+[![README Card](https://github-readme-stats.vercel.app/api/pin/?username=abenteuerzeit&repo=e-commerce-api&theme=radical)](https://github.com/abenteuerzeit/e-commerce-api)
+
+
+
 ### Contact Me
 
 Open for collaboration opportunities.

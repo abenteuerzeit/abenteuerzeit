@@ -1,6 +1,6 @@
 # Hi! 
 
-I am currently working on a project called `TalkTheTalk`. If interested, please visit the project dev page [roadmap](https://github.com/users/abenteuerzeit/projects/4)
+I am currently working on a personal e-commerce project for the education industry called `TalkTheTalk`. If interested, please visit the project dev page [roadmap](https://github.com/users/abenteuerzeit/projects/4)
 
 ## :snake: eating my contributions 
 

@@ -1,5 +1,7 @@
 # Hi! 
 
+I am currently working on a project called `TalkTheTalk`. If interested, please visit the project dev page [roadmap](https://github.com/users/abenteuerzeit/projects/4)
+
 ## :snake: eating my contributions 
 
 ![snake gif](https://github.com/abenteuerzeit/abenteuerzeit/blob/output/github-contribution-grid-snake.svg)

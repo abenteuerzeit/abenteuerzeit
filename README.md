@@ -1,6 +1,6 @@
 # Hi! 
 
-I am currently working on a personal e-commerce project for the education industry called `TalkTheTalk`. If interested, please visit the project dev page [roadmap](https://github.com/users/abenteuerzeit/projects/4)
+I am currently working on a personal e-commerce project for meal planning and grocery shopping and another app for the education industry.
 
 ## :snake: eating my contributions 
 

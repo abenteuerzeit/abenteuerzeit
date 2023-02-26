@@ -13,7 +13,47 @@ The best practices mentioned below should be followed to ensure that a system is
 4. Use continuous integration and delivery to ensure that changes are quickly tested and deployed.
 5. Use automated testing to ensure that the system is reliable and resilient.
 
-## Architecture Cheatsheet 
+## Decision guide
+
+### FAQ 
+
+#### 1. What are the specific requirements of the system?
+   
+The choice of architecture pattern should be based on the specific requirements of the system. The developer should consider factors like scalability, maintainability, flexibility, and performance when selecting an architecture pattern.
+
+- If I am building an e-commerce platform, I need to consider scalability, maintainability, and flexibility because I expect the platform to grow and evolve over time.
+
+#### 2. What is the size of the codebase?
+
+The size of the codebase can influence the choice of architecture pattern. For small codebases, a monolithic architecture pattern can work well, while larger codebases may require a more modular or microservices-based architecture.
+
+- My e-commerce platform is expected to have a large codebase, so a monolithic architecture pattern may not be the best choice.
+
+#### 3. What is the complexity of the application?
+
+The complexity of the application can also influence the choice of architecture pattern. For complex applications with many business domains and features, a modular monolith or microservices architecture pattern may be a better fit.
+
+- My e-commerce platform has many business domains and features, so a modular monolith or microservices architecture pattern may be a good choice.
+
+#### 4. What is the expected traffic volume of the application?
+
+The expected traffic volume can also influence the choice of architecture pattern. For large-scale applications with high traffic volumes, a microservices architecture pattern may be a better fit.
+
+- My e-commerce platform is expected to have high traffic volumes, so a microservices architecture pattern may be a good choice.
+
+#### 5. How important is maintainability and testing?
+
+Maintainability and testing are important considerations for any software system. A monolithic architecture pattern may be easier to maintain and test for small-scale web applications, while a more modular or microservices-based architecture may be easier to maintain and test for larger and more complex applications.
+
+- Maintainability and testing are important for my e-commerce platform, so a more modular or microservices-based architecture may be a better fit than a monolithic architecture pattern.
+
+#### 6. What are the trade-offs between different architecture patterns?
+
+Each architecture pattern has its benefits and drawbacks. It is important to consider the trade-offs between different patterns and how they apply to the specific requirements of the system.
+
+- For my e-commerce platform, a microservices architecture pattern may offer better scalability and resilience, but at the cost of increased complexity and operational costs.
+
+### Cheatsheet 
 
 The following table presents a comparison of various architecture patterns, their benefits and drawbacks, antipatterns, use cases, best practices, and example solutions:
 

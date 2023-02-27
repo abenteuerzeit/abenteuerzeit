@@ -23,7 +23,7 @@ I am currently working on a personal e-commerce project for meal planning and gr
 ### Tools
 ![Skills](https://skillicons.dev/icons?i=vscode,visualstudio,postman,netlify,git,powershell&theme=dark&perline=6)
 
-*<sub>Visual Studio Code, Visual Studio, PyCharm Postman, Netlify, Git, Powershell, Google Drive, Google Cloud Platform, Gmail, WordPress, Google Fonts, Font Awesome, Trello, G Suite, Skype, Microsoft 365, Dropbox, Stack Overflow, PayPal, Stripe, GitHub Pages, ChatGPT, Docker, npm, Kubernetes,  </sub>*
+*<sub>Visual Studio Code, Visual Studio, PyCharm Postman, Netlify, Git, Powershell, Jira, Google Drive, Google Cloud Platform, Gmail, WordPress, Google Fonts, Font Awesome, Trello, G Suite, Skype, Microsoft 365, Dropbox, Stack Overflow, PayPal, Stripe, GitHub Pages, ChatGPT, Docker, npm, Kubernetes,  </sub>*
 
 ### Learning
 ![Skills](https://skillicons.dev/icons?i=sqlite,sequelize,prisma&theme=dark&perline=6)

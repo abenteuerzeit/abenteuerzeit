@@ -1,6 +1,6 @@
 # Hi! 
 
-I am currently working on a personal e-commerce project for meal planning and grocery shopping and another app for the education industry.
+I work as an Azure cloud and infrastructure engineer at Microsoft, with extensive experience as an Azure App Service Development Engineer.
 
 ## :snake: eating my contributions 
 
@@ -20,15 +20,22 @@ I am currently working on a personal e-commerce project for meal planning and gr
 
 *<sub>Python, Flask, C#, ASP.Net, Microsoft SQL Server, Redux, Node.js, Express, WebSocket, PostgreSQL, Markdown, Unity</sub>*
 
+### Azure & Microsoft Technologies
+
+*<sub>Azure AD, Microsoft Identity & Access Management, AAD Group Management, Tenant & Domain Management, Azure RBAC, Microsoft Graph API, Azure AD Roles and Administrators UI, Privilege Identity Management (PIM), Azure AD Access Reviews, Azure AD Password Protection, Active Directory, Active Directory Management, Active Directory Domain Services (ADDS) + LDAP, Security group management, Dynamic membership rule creation, License and role assignment, RBAC role creation, Key vault management, PIM, Azure AD password protection, SSPR and its modes, Azure AD B2C and B2B, Activity logs, Guest user management, Admin Takeover for viral tenants (with DNS Server access)</sub>*
+
 ### Tools
+
 ![Skills](https://skillicons.dev/icons?i=vscode,visualstudio,postman,netlify,git,powershell&theme=dark&perline=6)
 
-*<sub>Visual Studio Code, Visual Studio, PyCharm Postman, Netlify, Git, Powershell, Jira, Google Drive, Google Cloud Platform, Gmail, WordPress, Google Fonts, Font Awesome, Trello, G Suite, Skype, Microsoft 365, Dropbox, Stack Overflow, PayPal, Stripe, GitHub Pages, ChatGPT, Docker, npm, Kubernetes,  </sub>*
+*<sub>Visual Studio Code, Visual Studio, PyCharm, Postman, Netlify, Git, Powershell, Jira, Google Drive, Google Cloud Platform, Gmail, WordPress, Google Fonts, Font Awesome, Trello, G Suite, Skype, Microsoft 365, Dropbox, Stack Overflow, PayPal, Stripe, GitHub Pages, ChatGPT, Docker, npm, Kubernetes,  </sub>*
 
 ### Learning
+
 ![Skills](https://skillicons.dev/icons?i=sqlite,sequelize,prisma&theme=dark&perline=6)
 
 *<sub>SQLite, Sequelize, Prisma </sub>*
+
 
              
 ***

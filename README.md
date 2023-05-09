@@ -1,6 +1,6 @@
 # Hi! 
 
-I work as an Azure cloud and infrastructure engineer at Microsoft, with extensive experience as an Azure App Service Development Engineer.
+I work as an [Azure cloud and infrastructure engineer at Microsoft](https://answers.microsoft.com/en-us/profile/ca9af111-9a5c-4a07-afb3-1764833fa741), with extensive experience as an Azure App Service Development Engineer.
 
 ## :snake: eating my contributions 
 
@@ -16,9 +16,9 @@ I work as an Azure cloud and infrastructure engineer at Microsoft, with extensiv
 
 ### Backend
 
-![Skills](https://skillicons.dev/icons?i=py,flask,cs,dotnet,redux,nodejs,express,postgres,md,unity&theme=dark&perline=5)
+![Skills](https://skillicons.dev/icons?i=azure,py,flask,cs,dotnet,redux,nodejs,express,postgres,md,unity&theme=dark&perline=5)
 
-*<sub>Python, Flask, C#, ASP.Net, Microsoft SQL Server, Redux, Node.js, Express, WebSocket, PostgreSQL, Markdown, Unity</sub>*
+*<sub>Azure, Python, Flask, C#, ASP.Net, Microsoft SQL Server, Redux, Node.js, Express, WebSocket, PostgreSQL, Markdown, Unity</sub>*
 
 ### Azure & Microsoft Technologies
 

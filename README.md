@@ -34,7 +34,7 @@ I work as an [Azure cloud and infrastructure engineer at Microsoft](https://answ
 
 ![Skills](https://skillicons.dev/icons?i=sqlite,sequelize,prisma&theme=dark&perline=6)
 
-*<sub>SQLite, Sequelize, Prisma </sub>*
+*<sub>SQLite, Sequelize, Prisma, KQL </sub>*
 
 
              

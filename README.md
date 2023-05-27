@@ -36,16 +36,6 @@ I work as an [Azure cloud and infrastructure engineer at Microsoft](https://answ
 
 *<sub>SQLite, Sequelize, Prisma, KQL </sub>*
 
-
-             
-***
-
-🔭 Currently seeking **junior developer** role as I complete my 12-month full stack development training at [Codecool](https://github.com/CodecoolGlobal).
-
-🌱 I’m currently learning Backend development on Codecademy and working on mastering my JavaScript and .NET Full Stack developer skills.
-
-***
-
 [Hugging Face - 🤗](https://huggingface.co/abenteuerzeit)
 
 [![Codewars](https://www.codewars.com/users/abenteuerzeit/badges/small)](https://www.codewars.com/users/abenteuerzeit)
@@ -64,7 +54,6 @@ When you complete the initiation and confirm your account, I'll be awarded honor
 Click on the netlify badge below to see the deployed boss-machine:  
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/a11637ab-36ef-4a0d-ba95-0bd10e638b91/deploy-status)](https://boss-machine-abenteuerzeit.netlify.app/#/)
-
 
 [![README Card](https://github-readme-stats.vercel.app/api/pin/?username=abenteuerzeit&repo=boss-machine&theme=radical)](https://github.com/abenteuerzeit/boss-machine.git)
 

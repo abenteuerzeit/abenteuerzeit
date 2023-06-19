@@ -12,7 +12,7 @@ I work as an [Azure cloud and infrastructure engineer at Microsoft](https://answ
 
 ![Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,bootstrap&theme=dark&perline=3)
 
-*<sub>JavaScript, HTML5, CSS3, React, Redux, Bootstrap </sub>*
+*<sub>JavaScript, HTML5, CSS3, React, Redux, Bootstrap, Blazor </sub>*
 
 ### Backend
 

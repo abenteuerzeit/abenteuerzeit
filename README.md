@@ -2,6 +2,10 @@
 
 I work as an [Azure cloud and infrastructure engineer at Microsoft](https://answers.microsoft.com/en-us/profile/ca9af111-9a5c-4a07-afb3-1764833fa741), with extensive experience as an Azure App Service Development Engineer.
 
+Currently leading a team working on an app for people to share and rate what it is like to live at rental properties: 
+
+[![README Card](https://github-readme-stats.vercel.app/api/pin/?username=abenteuerzeit&repo=tenant-talk&theme=radical)](https://github.com/abenteuerzeit/tenant-talk.git)
+
 ## :snake: eating my contributions 
 
 ![snake gif](https://github.com/abenteuerzeit/abenteuerzeit/blob/output/github-contribution-grid-snake.svg)

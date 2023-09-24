@@ -24,7 +24,7 @@ I am working on implementing a Japanese Card Game called [Hanafuda](https://en.w
 
 ### Backend
 
-![Skills](https://skillicons.dev/icons?i=azure,py,flask,cs,dotnet,redux,nodejs,express,postgres,md,unity&theme=dark&perline=5)
+![Skills](https://skillicons.dev/icons?i=azure,py,flask,cs,dotnet,redux,nodejs,express,postgres,php,md,unity&theme=dark&perline=5)
 
 *<sub>Azure, Python, Flask, C#, ASP.Net, Microsoft SQL Server, Redux, Node.js, Express, WebSocket, PostgreSQL, Markdown, Unity</sub>*
 

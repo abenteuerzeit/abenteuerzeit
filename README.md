@@ -6,7 +6,8 @@ Currently leading a team working on an app for people to share and rate what it 
 
 [![README Card](https://github-readme-stats.vercel.app/api/pin/?username=abenteuerzeit&repo=tenant-talk&theme=radical)](https://github.com/abenteuerzeit/tenant-talk.git)
 
-I am working on implementing a Japanese Card Game called [Hanafuda](https://en.wikipedia.org/wiki/Hanafuda) with `Next.js`: 
+I am working on implementing a Japanese Card Game called [Hanafuda]
+(https://en.wikipedia.org/wiki/Hanafuda) with `Next.js`: 
 
 [![README Card](https://github-readme-stats.vercel.app/api/pin/?username=abenteuerzeit&repo=hanafuda&theme=radical)](https://github.com/abenteuerzeit/hanafuda.git)
 
@@ -34,15 +35,9 @@ I am working on implementing a Japanese Card Game called [Hanafuda](https://en.w
 
 ### Tools
 
-![Skills](https://skillicons.dev/icons?i=vscode,visualstudio,postman,netlify,git,powershell&theme=dark&perline=6)
+![Skills](https://skillicons.dev/icons?i=vscode,visualstudio,postman,netlify,git,powershell,sqlite,sequelize,prisma&theme=dark&perline=6)
 
-*<sub>Visual Studio Code, Visual Studio, PyCharm, Postman, Netlify, Git, Powershell, Jira, Google Drive, Google Cloud Platform, Gmail, WordPress, Google Fonts, Font Awesome, Trello, G Suite, Skype, Microsoft 365, Dropbox, Stack Overflow, PayPal, Stripe, GitHub Pages, ChatGPT, Docker, npm, Kubernetes,  </sub>*
-
-### Learning
-
-![Skills](https://skillicons.dev/icons?i=sqlite,sequelize,prisma&theme=dark&perline=6)
-
-*<sub>SQLite, Sequelize, Prisma, KQL </sub>*
+*<sub>Visual Studio Code, Visual Studio, PyCharm, Postman, Netlify, Git, Powershell, Jira, Google Drive, Google Cloud Platform, Gmail, WordPress, Google Fonts, Font Awesome, Trello, G Suite, Skype, Microsoft 365, Dropbox, Stack Overflow, PayPal, Stripe, GitHub Pages, ChatGPT, Docker, npm, Kubernetes, SQLite, Sequelize, Prisma, KQL </sub>*
 
 [Hugging Face - 🤗](https://huggingface.co/abenteuerzeit)
 
@@ -50,13 +45,13 @@ I am working on implementing a Japanese Card Game called [Hanafuda](https://en.w
 
 Use [this referral invite to join Codewars](www.codewars.com/r/xcXHsA) 
 When you complete the initiation and confirm your account, I'll be awarded honor. :)
-
-[![Leetcode](https://badges.peiyuan.ch/leetcode/abenteuerzeit/name?logo=leetcode&label=leetcode&style=for-the-badge)](https://leetcode.com/abenteuerzeit/)
-
+<!--
+ [![Leetcode](https://badges.peiyuan.ch/leetcode/abenteuerzeit/name?logo=leetcode&label=leetcode&style=for-the-badge)](https://leetcode.com/abenteuerzeit/)
+-->
 ![counter](https://enb6254mo1wkgw.m.pipedream.net)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abenteuerzeit&show_icons=true&theme=radical&layout=compact)](https://github.com/abenteuerzeit?tab=repositories)
-
+<!--
 ### Recent Projects
 
 Click on the netlify badge below to see the deployed boss-machine:  
@@ -72,8 +67,7 @@ Click on the netlify badge below to see the deployed boss-machine:
 [![README Card](https://github-readme-stats.vercel.app/api/pin/?username=abenteuerzeit&repo=js-app&theme=radical)](https://github.com/abenteuerzeit/js-app)
 
 [![README Card](https://github-readme-stats.vercel.app/api/pin/?username=abenteuerzeit&repo=e-commerce-api&theme=radical)](https://github.com/abenteuerzeit/e-commerce-api)
-
-
+-->
 
 ### Contact Me
 

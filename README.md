@@ -2,9 +2,12 @@
 
 I work as an [Azure cloud and infrastructure engineer at Microsoft](https://answers.microsoft.com/en-us/profile/ca9af111-9a5c-4a07-afb3-1764833fa741), with extensive experience as an Azure App Service Development Engineer.
 
+<!--
 ## :snake: eating my contributions 
 
 ![snake gif](https://github.com/abenteuerzeit/abenteuerzeit/blob/output/github-contribution-grid-snake.svg)
+
+-->
 
 ## My Skills  [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/abenteuerzeit/my-stack) 
 

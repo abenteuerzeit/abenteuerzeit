@@ -9,9 +9,9 @@ Currently leading a team working on an app for people to share and rate what it 
 
 I am working on implementing a Japanese Card Game called [Hanafuda]
 (https://en.wikipedia.org/wiki/Hanafuda) with `Next.js`: 
--->
 
 [![README Card](https://github-readme-stats.vercel.app/api/pin/?username=abenteuerzeit&repo=hanafuda&theme=radical)](https://github.com/abenteuerzeit/hanafuda.git)
+-->
 
 ## :snake: eating my contributions 
 

@@ -1,17 +1,6 @@
 # Hi! 
 
 I work as an [Azure cloud and infrastructure engineer at Microsoft](https://answers.microsoft.com/en-us/profile/ca9af111-9a5c-4a07-afb3-1764833fa741), with extensive experience as an Azure App Service Development Engineer.
-<!--
-Currently leading a team working on an app for people to share and rate what it is like to live at rental properties: 
-
-[![README Card](https://github-readme-stats.vercel.app/api/pin/?username=abenteuerzeit&repo=tenant-talk&theme=radical)](https://github.com/abenteuerzeit/tenant-talk.git)
-
-
-I am working on implementing a Japanese Card Game called [Hanafuda]
-(https://en.wikipedia.org/wiki/Hanafuda) with `Next.js`: 
-
-[![README Card](https://github-readme-stats.vercel.app/api/pin/?username=abenteuerzeit&repo=hanafuda&theme=radical)](https://github.com/abenteuerzeit/hanafuda.git)
--->
 
 ## :snake: eating my contributions 
 
@@ -47,29 +36,10 @@ I am working on implementing a Japanese Card Game called [Hanafuda]
 
 Use [this referral invite to join Codewars](www.codewars.com/r/xcXHsA) 
 When you complete the initiation and confirm your account, I'll be awarded honor. :)
-<!--
- [![Leetcode](https://badges.peiyuan.ch/leetcode/abenteuerzeit/name?logo=leetcode&label=leetcode&style=for-the-badge)](https://leetcode.com/abenteuerzeit/)
--->
+
 ![counter](https://enb6254mo1wkgw.m.pipedream.net)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abenteuerzeit&show_icons=true&theme=radical&layout=compact)](https://github.com/abenteuerzeit?tab=repositories)
-<!--
-### Recent Projects
-
-Click on the netlify badge below to see the deployed boss-machine:  
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/a11637ab-36ef-4a0d-ba95-0bd10e638b91/deploy-status)](https://boss-machine-abenteuerzeit.netlify.app/#/)
-
-[![README Card](https://github-readme-stats.vercel.app/api/pin/?username=abenteuerzeit&repo=boss-machine&theme=radical)](https://github.com/abenteuerzeit/boss-machine.git)
-
-[![README Card](https://github-readme-stats.vercel.app/api/pin/?username=abenteuerzeit&repo=github-oauth-app&theme=radical)](https://github.com/abenteuerzeit/github-oauth-app)
-
-[![README Card](https://github-readme-stats.vercel.app/api/pin/?username=abenteuerzeit&repo=SuperTests&theme=radical)](https://github.com/abenteuerzeit/SuperTests)
-
-[![README Card](https://github-readme-stats.vercel.app/api/pin/?username=abenteuerzeit&repo=js-app&theme=radical)](https://github.com/abenteuerzeit/js-app)
-
-[![README Card](https://github-readme-stats.vercel.app/api/pin/?username=abenteuerzeit&repo=e-commerce-api&theme=radical)](https://github.com/abenteuerzeit/e-commerce-api)
--->
 
 ### Contact Me
 

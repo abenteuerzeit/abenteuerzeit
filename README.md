@@ -37,8 +37,7 @@ I work as an [Azure cloud and infrastructure engineer at Microsoft](https://answ
 
 [![Codewars](https://www.codewars.com/users/abenteuerzeit/badges/small)](https://www.codewars.com/users/abenteuerzeit)
 
-Use [this referral invite to join Codewars](www.codewars.com/r/xcXHsA) 
-When you complete the initiation and confirm your account, I'll be awarded honor. :)
+[![LeetCode user abenteuerzeit](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fabenteuerzeit&logo=leetcode&logoColor=yellow)](https://leetcode.com/abenteuerzeit/)
 
 ![counter](https://enb6254mo1wkgw.m.pipedream.net)
 

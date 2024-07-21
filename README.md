@@ -1,6 +1,7 @@
 # Hi! 
 
-I work as an [Azure cloud and infrastructure engineer at Microsoft](https://answers.microsoft.com/en-us/profile/ca9af111-9a5c-4a07-afb3-1764833fa741), with extensive experience as an Azure App Service Development Engineer.
+I work as a TCS Engineer at Grass Valley. Before that, I worked as an [Azure cloud and infrastructure engineer at Microsoft](https://answers.microsoft.com/en-us/profile/ca9af111-9a5c-4a07-afb3-1764833fa741), with extensive experience as an Azure App Service Development Engineer.
+
 
 <!--
 ## :snake: eating my contributions 
